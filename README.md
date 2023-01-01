@@ -24,7 +24,7 @@
  <b>Hi there 👋</b>
 </p>
 
-- 🔭 I’m currently working as Infrastructure Developer. 
+- 🔭 I’m cloud native developer. 
 - ✨ I have 5 years professional experience on Java and Spring Framework.
 - 💬 Ask me about Apereo CAS (https://apereo.github.io/cas/).
 
