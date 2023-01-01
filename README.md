@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+https://assets-global.website-files.com/6059b554e81c705f9dd2dd32/628692ef405f676b64a3fd20_avalanche-iso.svg
+
+<picture>
+ <img alt="dream" src="https://assets-global.website-files.com/6059b554e81c705f9dd2dd32/628692ef405f676b64a3fd20_avalanche-iso.svg">
+</picture>
+
 <!--
 **dgempiuc/dgempiuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
