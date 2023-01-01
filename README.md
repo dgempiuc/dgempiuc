@@ -24,8 +24,8 @@
  <b>Hi there 👋</b>
 </p>
 
-- 🔭 I’m currently working as infrastructure developer. 
-- ✨ I have 5 years professional experience on java and spring framework.
+- 🔭 I’m currently working as Infrastructure Developer. 
+- ✨ I have 5 years professional experience on Java and Spring Framework.
 - 💬 Ask me about Apereo CAS (https://apereo.github.io/cas/).
 
 <div align="center">
